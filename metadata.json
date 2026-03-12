@@ -1,0 +1,5 @@
+{
+  "name": "Aptech Admission Support Agent",
+  "description": "An AI-powered chat support agent for Aptech admissions, courses, and fee structures.",
+  "requestFramePermissions": []
+}
